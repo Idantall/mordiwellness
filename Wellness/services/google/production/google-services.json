@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1089110962248",
+    "project_id": "wellness-1f7dc",
+    "storage_bucket": "wellness-1f7dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089110962248:android:c26a639db620ae7fb4287d",
+        "android_client_info": {
+          "package_name": "com.wellness.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089110962248-ejb8odui55np11llhs40q34ub2cbakkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYp20KG5mb57KFmdR1xcmTpbRnOZaE6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089110962248-ejb8odui55np11llhs40q34ub2cbakkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089110962248:android:deef6b4cdf5ffbd1b4287d",
+        "android_client_info": {
+          "package_name": "com.wellness.rhmtlws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089110962248-ejb8odui55np11llhs40q34ub2cbakkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYp20KG5mb57KFmdR1xcmTpbRnOZaE6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089110962248-ejb8odui55np11llhs40q34ub2cbakkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

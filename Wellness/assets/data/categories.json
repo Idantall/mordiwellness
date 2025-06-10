@@ -1,0 +1,12 @@
+[
+    {"name": "בריאות", "icon": "hospital", "color": "#FF0000", "sound": "", "grade": 1, "index": "1"},
+    {"name": "התפתחות אישית", "icon": "user", "color": "#FF7F00", "sound": "", "grade": 1, "index": "2"},
+    {"name": "כלכלה", "icon": "money-bills", "color": "#FFFF00", "sound": "", "grade": 1, "index": "3"},
+    {"name": "סביבה", "icon": "house", "color": "#7FFF00", "sound": "", "grade": 1, "index": "4"},
+    {"name": "משפחה", "icon": "users", "color": "#00FF00", "sound": "", "grade": 1, "index": "5"},
+    {"name": "חברים", "icon": "handshake", "color": "#00FFFF", "sound": "", "grade": 1, "index": "6"},
+    {"name": "קריירה", "icon": "briefcase", "color": "#0000FF", "sound": "", "grade": 1, "index": "7"},
+    {"name": "הורות", "icon": "child", "color": "#4B0082", "sound": "", "grade": 1, "index": "8"},
+    {"name": "זוגיות", "icon": "heart", "color": "#9400D3", "sound": "", "grade": 1, "index": "9"},
+    {"name": "זמן פנוי", "icon": "clock", "color": "#FF1493", "sound": "", "grade": 1, "index": "10"}
+]

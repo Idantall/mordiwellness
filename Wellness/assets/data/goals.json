@@ -1,0 +1,40 @@
+[
+    {"name": "תזונה נכונה", "description": "שמירה על תזונה מאוזנת", "active": true, "id": "1", "grade": 1, "categoryId": "בריאות"},
+    {"name": "פעילות גופנית", "description": "עיסוק בפעילות גופנית סדירה", "active": true, "id": "2", "grade": 1, "categoryId": "בריאות"},
+    {"name": "שינה מספקת", "description": "הבטחת שינה מספקת", "active": true, "id": "3", "grade": 1, "categoryId": "בריאות"},
+
+    {"name": "הגדרת חזון ברור", "description": "הגדרת חזון ברור", "active": true, "id": "4", "grade": 1, "categoryId": "התפתחות אישית"},
+    {"name": "יציאה מאזור הנוחות", "description": "יציאה מאזור הנוחות", "active": true, "id": "5", "grade": 1, "categoryId": "התפתחות אישית"},
+    {"name": "למידה מתמדת", "description": "למידה מתמדת", "active": true, "id": "6", "grade": 1, "categoryId": "התפתחות אישית"},
+
+    {"name": "יציבות פיננסית", "description": "יציבות פיננסית", "active": true, "id": "7", "grade": 1, "categoryId": "כלכלה"},
+    {"name": "חיסכון לפנסיה", "description": "חיסכון לפנסיה", "active": true, "id": "8", "grade": 1, "categoryId": "כלכלה"},
+    {"name": "השקעה", "description": "השקעה", "active": true, "id": "9", "grade": 1, "categoryId": "כלכלה"},
+
+    {"name": "גישה לטבע/ים", "description": "גישה לטבע/ים", "active": true, "id": "1", "grade": 1, "categoryId": "סביבה"},
+    {"name": "סביבה בטוחה", "description": "סביבה בטוחה", "active": true, "id": "11", "grade": 1, "categoryId": "סביבה"},
+    {"name": "קהילה תומכת", "description": "קהילה תומכת", "active": true, "id": "12", "grade": 1, "categoryId": "סביבה"},
+
+    {"name": "תקשורת פתוחה וכנה", "description": "תקשורת פתוחה וכנה", "active": true, "id": "13", "grade": 1, "categoryId": "משפחה"},
+    {"name": "זמן איכות משותף", "description": "זמן איכות משותף", "active": true, "id": "14", "grade": 1, "categoryId": "משפחה"},
+    {"name": "כבוד הדדי והערכה", "description": "כבוד הדדי והערכה", "active": true, "id": "15", "grade": 1, "categoryId": "משפחה"},
+
+    {"name": "היו קשובים ותומכים", "description": "היו קשובים ותומכים", "active": true, "id": "16", "grade": 1, "categoryId": "חברים"},
+    {"name": "הביעו כבוד והערכה", "description": "הביעו כבוד והערכה", "active": true, "id": "17", "grade": 1, "categoryId": "חברים"},
+    {"name": "חוויות משותפות", "description": "חוויות משותפות", "active": true, "id": "18", "grade": 1, "categoryId": "חברים"},
+
+    {"name": "הגדרת מטרות ברורות תחומות בזמן", "description": "הגדרת מטרות ברורות תחומות בזמן", "active": true, "id": "19", "grade": 1, "categoryId": "קריירה"},
+    {"name": "פיתוח מתמיד", "description": "פיתוח מתמיד", "active": true, "id": "20", "grade": 1, "categoryId": "קריירה"},
+    {"name": "פרואקטיביות בבניית רשת קשרים", "description": "פרואקטיביות בבניית רשת קשרים", "active": true, "id": "21", "grade": 1, "categoryId": "קריירה"},
+
+    {"name": "טיפוח קשר חזק ואוהב עם ילדיכם", "description": "טיפוח קשר חזק ואוהב עם ילדיכם", "active": true, "id": "22", "grade": 1, "categoryId": "הורות"},
+    {"name": "הקדישו זמן איכות לילדיכם", "description": "הקדישו זמן איכות לילדיכם", "active": true, "id": "23", "grade": 1, "categoryId": "הורות"},
+    {"name": "היו מודל חיובי לחיקוי", "description": "היו מודל חיובי לחיקוי", "active": true, "id": "24", "grade": 1, "categoryId": "הורות"},
+
+    {"name": "טיפוח תקשורת פתוחה וכנה", "description": "טיפוח תקשורת פתוחה וכנה", "active": true, "id": "25", "grade": 1, "categoryId": "זוגיות"},
+    {"name": "היו שם אחד בשביל השני תמיד", "description": "היו שם אחד בשביל השני תמיד", "active": true, "id": "26", "grade": 1, "categoryId": "זוגיות"},
+    {"name": "זמן איכות משותף", "description": "זמן איכות משותף", "active": true, "id": "27", "grade": 1, "categoryId": "זוגיות"},
+
+    {"name": "הגדרת מטרות וערכים", "description": "הגדרת מטרות וערכים", "active": true, "id": "28", "grade": 1, "categoryId": "זמן פנוי"},
+    {"name": "תכנון וניהול זמן", "description": "תכנון וניהול זמן", "active": true, "id": "29", "grade": 1, "categoryId": "זמן פנוי"}
+]

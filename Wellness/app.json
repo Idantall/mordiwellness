@@ -1,0 +1,54 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "userInterfaceStyle": "automatic",
+    "orientation": "default",
+    "web": {
+      "output": "static",
+      "bundler": "metro"
+    },
+    "splash": {
+      "image": "./assets/images/app/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "icon": "./assets/images/app/logo.png",
+    "android": {
+      "googleServicesFile": "./services/google/production/google-services.json",
+      "package": "com.wellness.rhmtlws",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.wellness.rhmtlws"
+    },
+    "plugins": [
+      [
+        "expo-router",
+        {
+          "origin": "https://n"
+        }
+      ],
+      "@react-native-firebase/app",
+      "@react-native-firebase/auth",
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static"
+          }
+        }
+      ],
+      "expo-font"
+    ],
+    "name": "Mental Wellness",
+    "slug": "mental-wellness",
+    "extra": {
+      "router": {
+        "origin": "https://n"
+      },
+      "eas": {
+        "projectId": "10a9f197-204a-4471-bb32-7d3271b6c301"
+      }
+    }
+  }
+}

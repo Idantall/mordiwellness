@@ -1,0 +1,82 @@
+[
+  {
+    "active": false,
+    "color": "#FF0000",
+    "grade": 3,
+    "icon": "hospital",
+    "id": "07eee1da-4e1d-4629-912f-6774d2348b81",
+    "index": "1",
+    "name": "בריאות",
+    "sound": ""
+  },
+  {
+    "active": false,
+    "color": "#00FF00",
+    "grade": 4,
+    "icon": "users",
+    "id": "969099c5-ba67-4548-9e18-fd9f5f90a379",
+    "index": "5",
+    "name": "משפחה",
+    "sound": ""
+  },
+  {
+    "active": false,
+    "color": "#7FFF00",
+    "grade": 4,
+    "icon": "house",
+    "id": "6d146a74-470d-41bb-b4ce-6d474f7137ac",
+    "index": "4",
+    "name": "סביבה",
+    "sound": ""
+  },
+  {
+    "active": false,
+    "color": "#0000FF",
+    "grade": 4,
+    "icon": "briefcase",
+    "id": "4cc7b988-7ef5-4654-98ca-91e952da1d14",
+    "index": "7",
+    "name": "קריירה",
+    "sound": ""
+  },
+  {
+    "active": false,
+    "color": "#9400D3",
+    "grade": 4,
+    "icon": "heart",
+    "id": "3aacbff5-df17-476e-adbd-9d4c9e012081",
+    "index": "9",
+    "name": "זוגיות",
+    "sound": ""
+  },
+  {
+    "active": false,
+    "color": "#FF7F00",
+    "grade": 4,
+    "icon": "user",
+    "id": "e761372f-4b1c-4e3f-9e52-047d85f1b500",
+    "index": "2",
+    "name": "התפתחות אישית",
+    "sound": ""
+  },
+  {
+    "active": false,
+    "color": "#00FFFF",
+    "grade": 4,
+    "icon": "handshake",
+    "id": "6b3a92ed-ffda-4f57-aead-242632896b80",
+    "index": "6",
+    "name": "חברים",
+    "sound": ""
+  },
+  {
+    "active": false,
+    "color": "#FFFF00",
+    "grade": 4,
+    "icon": "money-bills",
+    "id": "8a3ccbe7-f825-4647-81bd-a2907d4e51e8",
+    "index": "3",
+    "name": "כלכלה",
+    "sound": ""
+  }
+]
